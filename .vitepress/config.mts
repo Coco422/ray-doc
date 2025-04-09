@@ -26,5 +26,5 @@ export default defineConfig({
     ]
   },
   outDir: '../dist',
-  base: '/ray-doc/'
+  base: '/'
 })
